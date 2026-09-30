@@ -70,7 +70,23 @@ Currently exploring and building with:
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=hernanrengel&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    alt="GitHub Activity"
+  />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hernanrengel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanrengel&layout=compact&hide_border=true"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
