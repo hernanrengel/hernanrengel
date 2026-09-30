@@ -67,9 +67,9 @@ Currently exploring and building with:
 
 ## GitHub Activity
 
-<!--START_SECTION:github-->
-
-<!--END_SECTION:github-->
+<!--START_GITHUB_ACTIVITY-->
+Loading activity...
+<!--END_GITHUB_ACTIVITY-->
 
 ---
 
