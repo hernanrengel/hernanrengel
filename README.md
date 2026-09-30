@@ -1,76 +1,80 @@
-# Hey, I'm Hernán 👋
+# Hernán Rengel
 
-### Senior Full Stack Software Engineer | Team Lead
+### Senior Full Stack Software Engineer · Technical Lead
 
-I build scalable web applications, APIs, and cloud infrastructure,
-with a strong focus on React/Next.js, backend development, architecture,
-and developer experience.
+I’m a senior full-stack engineer focused on building scalable web
+applications, backend systems, and cloud infrastructure.
+
+My main strength is connecting product requirements with solid
+technical architecture — from frontend and APIs to databases,
+infrastructure, observability, and deployment.
 
 ---
 
-### 🛠️ What I work with
+## Engineering Focus
 
 **Frontend**
-- React
-- Next.js
-- TypeScript
-- React Native
+React · Next.js · TypeScript · React Native
 
 **Backend**
-- Node.js / NestJS
-- Python / Django / FastAPI
-- PHP / Laravel
-- Go
+Node.js · NestJS · Python · Django · FastAPI · PHP · Laravel · Go
 
 **Cloud & Infrastructure**
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
+AWS · Docker · Kubernetes · Terraform · CI/CD
 
-**Data**
-- PostgreSQL
-- MySQL
-- MongoDB
-- Elasticsearch
-- Redis
+**Data & Systems**
+PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
+
+**Architecture**
+Distributed systems · REST APIs · Multi-tenant systems · RBAC
+Event-driven systems · API design · Cloud architecture
 
 ---
 
-### 🤖 AI & Engineering
+## AI Engineering
 
-I'm increasingly focused on AI-assisted software development,
-including:
+I use AI as part of the engineering workflow rather than as a
+separate layer added to the product.
+
+Currently exploring and building with:
 
 - LLM APIs
 - RAG & embeddings
 - AI coding agents
 - MCP
-- AI-powered developer workflows
-- Automation with n8n
-- Playwright & automated testing
+- AI-assisted development workflows
+- Automated testing
+- n8n & workflow automation
 
 ---
 
-### 🚀 Currently
+## What I'm Working On
 
-🔭 Building a multi-tenant healthcare SaaS platform  
-🌱 Exploring AI engineering and agentic development  
-🤝 Open to interesting engineering opportunities  
-💬 Always happy to talk about software architecture, AI, and engineering
-
----
-
-### 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hernanrengel&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanrengel&layout=compact&hide_border=true)
+- 🏥 Multi-tenant healthcare SaaS
+- 🤖 AI-assisted software engineering workflows
+- ☁️ Cloud architecture and infrastructure automation
+- 🧪 Automated testing and developer tooling
 
 ---
 
-### 📫 Find me
+## Selected Technologies
 
-[LinkedIn](https://www.linkedin.com/in/hernan-rengel-2a713370/) ·
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,python,django,php,laravel,go,postgres,mysql,mongodb,redis,aws,docker,kubernetes,terraform" />
+</p>
+
+---
+
+## GitHub Activity
+
+<!--START_SECTION:github-->
+
+<!--END_SECTION:github-->
+
+---
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/hernan-rengel-2a713370/)
+·
 [GitHub](https://github.com/hernanrengel)
